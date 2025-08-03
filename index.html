@@ -20,22 +20,27 @@
       content="Join Boise’s growing tech community through insightful articles, inspiring podcasts and local events."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://localhost" />
+    <meta property="og:url" content="https://boisetech.com/" />
     <!-- Canonical URL to avoid duplicate content issues -->
-    <link rel="canonical" href="http://localhost" />
+    <link rel="canonical" href="https://boisetech.com/" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header class="site-header">
       <div class="container header-content">
-        <h1 class="logo"><a href="#">Boise Tech Connect</a></h1>
+        <h1 class="logo">
+          <a href="index.html">
+            <img src="images/logo-mark.png" alt="" class="logo-icon" />
+            <span class="logo-text">Boise Tech Connect</span>
+          </a>
+        </h1>
         <nav class="main-nav" aria-label="Main Navigation">
           <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#podcast">Podcast</a></li>
-            <li><a href="#events">Events</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="podcast.html">Podcast</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
           </ul>
         </nav>
       </div>
@@ -52,8 +57,8 @@
               innovators on our podcast and meet fellow enthusiasts at events.
             </p>
             <div class="cta-buttons">
-              <a href="#blog" class="button">Read the Blog</a>
-              <a href="#podcast" class="button button-secondary"
+            <a href="blog.html" class="button">Read the Blog</a>
+            <a href="podcast.html" class="button button-secondary"
                 >Listen to Podcast</a
               >
             </div>
@@ -66,6 +71,7 @@
         <div class="container">
           <h2 class="section-title">What We Offer</h2>
           <div class="feature-grid">
+            <!-- Each feature card links to its dedicated section to improve navigation and accessibility -->
             <article class="feature" id="blog">
               <!-- Inline SVG icon for blog -->
               <svg
@@ -84,7 +90,7 @@
                 <path d="M4 8h16v2H4z" />
                 <path d="M4 12h10v2H4z" />
               </svg>
-              <h3>Blog</h3>
+              <h3><a href="blog.html" style="color: inherit; text-decoration: none;">Blog</a></h3>
               <p>
                 In‑depth articles on Boise’s tech trends, startups and best
                 practices written for enthusiasts and professionals alike.
@@ -108,7 +114,7 @@
                 <path d="M19.4 15a9 9 0 10-14.8 0" />
                 <path d="M18 20a15 15 0 10-12 0" />
               </svg>
-              <h3>Podcast</h3>
+              <h3><a href="podcast.html" style="color: inherit; text-decoration: none;">Podcast</a></h3>
               <p>
                 Hear from Boise’s innovators, founders and community leaders in
                 our conversation‑driven podcast series.
@@ -133,7 +139,7 @@
                 <line x1="8" y1="2" x2="8" y2="6" />
                 <line x1="3" y1="10" x2="21" y2="10" />
               </svg>
-              <h3>Events</h3>
+              <h3><a href="events.html" style="color: inherit; text-decoration: none;">Events</a></h3>
               <p>
                 Join meet‑ups and workshops that bring together learners,
                 professionals and enthusiasts in Boise’s thriving ecosystem.
