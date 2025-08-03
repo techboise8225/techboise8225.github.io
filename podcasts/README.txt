@@ -1,0 +1,1 @@
+Place your MP3 files in this folder and update their file sizes in `feed-podcast.xml` accordingly.
