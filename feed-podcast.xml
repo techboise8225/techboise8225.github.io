@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Boise Tech Connect Podcast</title>
+    <link>http://localhost/podcast.html</link>
+    <description>Conversations with Boise’s innovators, founders and community leaders. Tune in for stories, lessons and visions of the future.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 -0600</lastBuildDate>
+    <itunes:author>Boise Tech Connect</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <!-- Podcast artwork (update URL to your hosted image) -->
+    <itunes:image href="http://localhost/images/podcast-artwork.jpg" />
+    <!-- Episode 5 -->
+    <item>
+      <title>Episode 5: Building a Startup in Boise</title>
+      <link>http://localhost/podcast.html#episode-5</link>
+      <guid isPermaLink="false">btc-podcast-0005</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 -0600</pubDate>
+      <enclosure url="http://localhost/podcasts/episode5.mp3" length="50123123" type="audio/mpeg" />
+      <itunes:duration>00:45:00</itunes:duration>
+      <description>Our guest Sarah Hughes shares her journey from hackathon idea to thriving SaaS business. Learn about the resources and mentors that helped her along the way.</description>
+    </item>
+    <!-- Episode 4 -->
+    <item>
+      <title>Episode 4: The Future of Web Development</title>
+      <link>http://localhost/podcast.html#episode-4</link>
+      <guid isPermaLink="false">btc-podcast-0004</guid>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 -0600</pubDate>
+      <enclosure url="http://localhost/podcasts/episode4.mp3" length="45123123" type="audio/mpeg" />
+      <itunes:duration>00:50:00</itunes:duration>
+      <description>Host John sits down with two Boise developers to discuss the rising adoption of web assembly, Rust and AI tools in modern development workflows.</description>
+    </item>
+    <!-- Episode 3 -->
+    <item>
+      <title>Episode 3: Bootstrapping vs Venture Capital</title>
+      <link>http://localhost/podcast.html#episode-3</link>
+      <guid isPermaLink="false">btc-podcast-0003</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 -0600</pubDate>
+      <enclosure url="http://localhost/podcasts/episode3.mp3" length="40123123" type="audio/mpeg" />
+      <itunes:duration>00:55:00</itunes:duration>
+      <description>We explore two paths to funding with serial entrepreneur Mike Palmer. Hear how he bootstrapped his first company and why he chose venture capital funding for his second.</description>
+    </item>
+  </channel>
+</rss>

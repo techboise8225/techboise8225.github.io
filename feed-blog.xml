@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Boise Tech Connect Blog</title>
+    <link>http://localhost/blog.html</link>
+    <description>Insights, interviews and analysis covering Boise’s tech trends, startups and best practices.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 -0600</lastBuildDate>
+    <!-- First article -->
+    <item>
+      <title>Why Boise is the Next Tech Hotspot</title>
+      <link>http://localhost/why-boise-is-the-next-tech-hotspot.html</link>
+      <guid>http://localhost/why-boise-is-the-next-tech-hotspot.html</guid>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 -0600</pubDate>
+      <description>Boise’s rapid population growth and supportive community are creating fertile ground for innovative startups. Explore why this city is capturing national attention and how the local scene is evolving.</description>
+    </item>
+    <!-- Second article -->
+    <item>
+      <title>Navigating Tech Careers in Idaho</title>
+      <link>http://localhost/navigating-tech-careers-in-idaho.html</link>
+      <guid>http://localhost/navigating-tech-careers-in-idaho.html</guid>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 -0600</pubDate>
+      <description>From bootcamps to job fairs, discover the educational resources and networking opportunities that make Boise an ideal place to launch or grow a tech career.</description>
+    </item>
+    <!-- Third article -->
+    <item>
+      <title>How We Built Boise Tech Connect as a Side Gig</title>
+      <link>http://localhost/how-we-built-boise-tech-connect-as-a-side-gig.html</link>
+      <guid>http://localhost/how-we-built-boise-tech-connect-as-a-side-gig.html</guid>
+      <pubDate>Sat, 10 May 2025 00:00:00 -0600</pubDate>
+      <description>Learn about our journey from hobby to community hub. We share lessons on balancing a full‑time job with building a brand, growing an audience and planning for the future.</description>
+    </item>
+  </channel>
+</rss>
